@@ -1,0 +1,73 @@
+body{
+    background-color: #419cf6;
+}
+ 
+.Tpadding{
+    padding-left:1050px;
+    padding-top:5px;
+}
+
+.headcenter{
+    text-align: center;
+}
+
+.TabLeft{
+    padding-left:300px;
+    padding-right:300px;
+}
+
+.Tcolor{
+    background-image: url('../images/white\ brick.png');
+    background-size:contain;
+}
+
+.italic{
+    font-style:italic;
+}
+
+.heading{
+    font-family: papyrus;
+}
+
+.everyfont{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Topfont{
+    color: white;
+}
+
+.Navigation{
+    top:5px;
+    height: 100px;
+    text-align: right;
+    padding-right: 10px;
+    padding-top: 5px;
+    margin: auto;
+}
+
+.Footer{
+    bottom: 5px;
+    height: 50px;
+    position: fixed;
+    margin:auto;
+}
+
+.Tableau{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    margin:auto;
+}
+
+.common{
+    background-color: white;
+    border: solid 2px white;
+    opacity: 80%;
+    position: relative;
+}
+
+a:visited{
+    color:black
+}
